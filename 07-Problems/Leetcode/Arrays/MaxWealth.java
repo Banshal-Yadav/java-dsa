@@ -1,4 +1,4 @@
-// Qs. 1672
+// Qs. 1672 - Richest Customer Wealth
 package Leetcode.Arrays;
 
 public class MaxWealth {
