@@ -1,32 +1,28 @@
-public class test {
-    public static int isprime(int n) {
+// 2d array
 
-        if(n == 2 ){ return 0;}
+import java.util.*;
 
-        boolean[] isPrime = new boolean[n];
+class test {
+    public static void main(String args[]) {
+        int[][] arr = new int[2][3];
 
-        // assume all nums are prime
-        for(int i = 2; i < n; i++) {
-            isPrime[i] = true;
-        }
+        Scanner sc = new Scanner(System.in);
 
-        // check till root i
-        for(int i = 2; i*i < n; i++){
-            if(isPrime[i]){
-                for(int j = i*i; j < n; j+=i){
-                    isPrime[j] = false;
-                }
+        // 2d array input
+        for(int row = 0; row < arr.length; row++) {
+            for(int col = 0; col < arr[row].length; col++) {
+                arr[row][col] = sc.nextInt();
             }
         }
-        int count = 0;
-        for(int i=0; i < n; i++) {
-            if(isPrime[i]) count++;
+        
+        // 2d output
+        for(int row = 0; row < arr.length; row++) {
+            System.out.println(Arrays.toString(arr[row]));
         }
-        return count;
-    }
 
-    public static void main(String args[]) {
-        int n = 16;
-        System.out.println(isprime(n));
+        // enchanced array
+        for(int[] n : arr){
+            System.out.println(Arrays.toString(n));
+        }
     }
 }
