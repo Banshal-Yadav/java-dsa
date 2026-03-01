@@ -2,7 +2,7 @@
 import java.util.*;
 public class spiral_mat {
 
-    public List<Integer> spiralMat(inr[][] matrix) {
+    public List<Integer> spiralMat(int[][] matrix) {
         List<Integer> result = new ArrayList<>();
 
         int rows = matrix.length;
