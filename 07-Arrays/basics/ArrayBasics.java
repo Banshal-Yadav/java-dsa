@@ -15,7 +15,7 @@ public class ArrayBasics {
         
         // print all arrays
         for(int i = 0; i < num.length; i++) {
-            System.err.println("Numbers:" + num[i] + "\n" + fruit[i] + arr[i] );
+            System.out.println("Numbers:" + num[i] + "\n" + fruit[i] + arr[i] );
         }
         // --- cant update string arrays as they are unmutable --
         // fruit[1] = {"grapes"};

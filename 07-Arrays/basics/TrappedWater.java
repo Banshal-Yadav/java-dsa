@@ -1,5 +1,6 @@
 // this code implements 'Trapped water' problem
 // time complexity - O(n)
+
 public class TrappedWater {
     public static int trappedWater(int height[]) {
         int n = height.length;

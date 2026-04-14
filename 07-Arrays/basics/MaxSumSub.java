@@ -10,7 +10,6 @@ public class MaxSumSub {
                 for (int k = i; k <= j; k++) {
                     currentSum += nums[k];
                     System.out.print(currentSum + " ");
-                    
                 }
                 if (maxSum < currentSum) {
                     maxSum = currentSum;

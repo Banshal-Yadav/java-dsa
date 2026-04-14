@@ -5,8 +5,8 @@ public class BreakStatement {
             if(i == 3) {
                 break;
             }
-            System.err.println(i);
+            System.out.println(i);
         }
-        System.err.println("Im out of the loop");
+        System.out.println("Im out of the loop");
     }
 }

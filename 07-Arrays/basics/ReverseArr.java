@@ -14,6 +14,8 @@ public class ReverseArr {
     public static void main(String arg[]) {
         int numbers[] = {1,2,3,4,5};
         reverseArr(numbers);
+        
+        // print array values
         for(int i = 0; i < numbers.length; i++) {
             System.out.print(numbers[i] + " ");
         }

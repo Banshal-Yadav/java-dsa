@@ -1,5 +1,5 @@
 // arraylist increase the size dynamically as we add elements
-// internally it has fixed size, it copies oldarray element to a new bigger size array
+// internally it has fixed size, it copies old array element to a new bigger size array
 // increase size by 1.5x times (50%)
 
 import java.util.*;
@@ -33,7 +33,7 @@ public class arrayList {
             list.add(sc.nextInt());
         }
 
-        // output method 01:  we can print alllist items directly
+        // output method 01:  we can print all list items directly
         System.err.println(list);
 
         // output method 02: print till given index

@@ -7,7 +7,7 @@
 
 import java.util.*;
 
-public class _2d_arrays {
+public class _2d_arrays_NOTES {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);

@@ -1,4 +1,4 @@
-// basic dta types in java
+// basic data types in java
 public class DataTypes {
     public static void main(String args[]) {
         // byte b = 8;
@@ -8,6 +8,6 @@ public class DataTypes {
         // int num = 10;
         // long -> very large number
         // double -> very large decimal number
-       // short n = 240;
+        // short n = 240;
     }
 }
