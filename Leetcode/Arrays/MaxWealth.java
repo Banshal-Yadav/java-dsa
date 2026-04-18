@@ -1,5 +1,5 @@
 // Qs. 1672 - Richest Customer Wealth
-package Leetcode.Arrays;
+
 
 public class MaxWealth {
     public int maximumWealth(int[][] accounts) {

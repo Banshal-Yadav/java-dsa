@@ -17,8 +17,6 @@ Explanation: There is no common prefix among the input strings.
 */
 
 
-package Leetcode.Strings;
-
 public class Longest_Common_Prefix {
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
