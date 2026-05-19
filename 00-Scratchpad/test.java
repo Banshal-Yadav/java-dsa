@@ -1,27 +1,18 @@
-// 2d array
 import java.util.*;
-import java.util.Scanner;
 
-class test {
+public class test {
     public static void main(String args[]) {
-        Scanner sc  = new Scanner(System.in);
 
-        int[][] arr = new int[3][3];
+        // print string
+        System.out.print("Java revision\n");
 
-        System.out.println("Length of the 2d array is:" + arr.length);
+        // taking input
+        Scanner sc = new Scanner(System.in);
 
-        // input
-        for(int row = 0; row < arr.length ; row++) {
-            for(int col = 0; col < arr[row].length; col++) {
-                arr[row][col] = sc.nextInt();
-            }
-        }
+        int a = sc.nextInt();
+        int b = sc.nextInt();
 
-        // output
-        for (int row = 0; row < arr.length; row++) {
-            System.out.println(Arrays.toString(arr[row]));
-        }
-
+        System.out.println(a+b);
         sc.close();
     }
 }

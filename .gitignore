@@ -1,1 +1,8 @@
 *.class
+.agent-test
+.opencode
+AGENT.MD
+AGENTS.md
+.codex
+dsa-gaps.md
+DSA-Pattern-REPORt.md
