@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "4902a9520c23bdcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1f874bf7de54c2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c646abbe8e161834",
+            "type": "leaf",
+            "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "Quick-Notes.java"
+              },
+              "icon": "lucide-file",
+              "title": "Quick-Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbc98cee8cdf2839",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1ddf6372ae24a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1de9c3454df33c1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1e046db988f1b3e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b8816e1cf207a45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.50863647460938,
+    "collapsed": true
+  },
+  "right": {
+    "id": "469daa8655432090",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b7a5c20360e7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5762d2ecd19df75e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quick-Notes.java",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Quick-Notes"
+            }
+          },
+          {
+            "id": "888db35ccea95208",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quick Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quick Notes"
+            }
+          },
+          {
+            "id": "287de8c4cd9447cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "13604e289c034623",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ac806fb3065e8b9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quick Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quick Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "c646abbe8e161834",
+  "lastOpenFiles": [
+    "Quick-Notes.java",
+    "Untitled.base",
+    "DSA-PATTERN-REPORT.md",
+    "Leetcode/HashMap/TwoSum.java",
+    "Leetcode/HashMap",
+    "Quick Notes.md",
+    "07-Arrays/2D-Arrays/_2d_arrays_NOTES.java",
+    "README.md",
+    "Quick Notes",
+    "DSA-PROGRESS.md",
+    "dsa-gaps.md",
+    "AGENTS.md"
+  ]
+}
