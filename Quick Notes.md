@@ -1,12 +1,19 @@
+```java
 ARRAYS:
 Arrays.sort(arr)
 arr.length
 
 STRINGS:
-str.charAt(i)
-str.toCharArray()
-new String(charArray)
-str.split(" ")
+str.charAt(i)        // returns char at index i
+str.toCharArray()    // converts string to char[]
+new String(charArray) // converts char[] back to String
+str.split(" ")       // splits string by space, returns String[]
+StringBuilder sb = new StringBuilder() // mutable string builder
+sb.append("Hello")   // adds "Hello" to the end of sb
+sb.toString()        // converts StringBuilder to String
+Integer.parseInt("6") // converts String to int
+str.substring(i, j)  // returns string from i to j (j excluded)
+str.indexOf("h", i)  // returns index of "h" starting search from i
 
 HASHMAP:
 HashMap<Integer, Integer> map = new HashMap<>();
@@ -31,3 +38,4 @@ list.size()
 SORTING WITH LAMBDA:
 list.sort((a, b) -> b - a)  // descending
 list.sort((a, b) -> a - b)  // ascending
+```
