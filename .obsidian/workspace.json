@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "4902a9520c23bdcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2121ccac26464e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e287d204e330a99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA notes/DSA Problem Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA Problem Patterns"
+            }
+          },
+          {
+            "id": "ea3c00f3f099a1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nir screenshots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nir screenshots"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbc98cee8cdf2839",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1ddf6372ae24a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1de9c3454df33c1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1e046db988f1b3e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b8816e1cf207a45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.50863647460938
+  },
+  "right": {
+    "id": "469daa8655432090",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b7a5c20360e7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5762d2ecd19df75e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA notes/DSA Problem Patterns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DSA Problem Patterns"
+            }
+          },
+          {
+            "id": "888db35ccea95208",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quick Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quick Notes"
+            }
+          },
+          {
+            "id": "287de8c4cd9447cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "13604e289c034623",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ac806fb3065e8b9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quick Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quick Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "ea3c00f3f099a1eb",
+  "lastOpenFiles": [
+    "Pasted image 20260720160707.png",
+    "nir screenshots.md",
+    "DSA notes/DSA Problem Patterns.md",
+    "revision/valid_anagram.java",
+    "revision/ValidAnagram.java",
+    "ValidAnagram.java",
+    "revision/two_sum.java",
+    "revision",
+    "two_sum.java",
+    "Leetcode/HashSet/duplicage_num.java",
+    "Leetcode/HashSet",
+    "duplicage_num.java",
+    "DSA notes/Quick Notes.md",
+    "DSA notes",
+    "Pasted image 20260703171641.png",
+    "Pasted image 20260703170802.png",
+    "Nir screenshots.md",
+    "two-pointer.md",
+    "README.md",
+    "DSA-PATTERN-REPORT.md",
+    "DSA-PROGRESS.md",
+    "dsa-gaps.md",
+    "AGENTS.md"
+  ]
+}
